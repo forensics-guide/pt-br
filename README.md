@@ -10,7 +10,7 @@ Embora a metodologia apresentada aqui não seja, de forma alguma, suficiente par
 
 * Este guia é uma bifurcação _(fork_) de [guia original do Security without Borders](https://github.com/securitywithoutborders/guide-to-quick-forensics)
 * Essa bifurcação tem como objetivo manter o conteúdo existente atualizado e adicionar as informações mais recentes.
-* Esta bifurcação está em desenvolvimento no momento. Você pode contribuir com a versão em inglês  [aqui](https://github.com/pellaeon/guide-to-quick-forensics) e com a [**versão em português aqui**](https://github.com/celsobessa/guide-to-quick-forensics/tree/pt-br).
+* Esta bifurcação está em desenvolvimento no momento. Você pode contribuir com a versão em inglês [aqui](https://github.com/pellaeon/guide-to-quick-forensics) e com a [**versão em português aqui**](https://github.com/forensics-guide/pt-br).
 
 ### Por que fazer Análises Forenses Rápidas?
 
